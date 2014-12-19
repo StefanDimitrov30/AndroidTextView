@@ -2,8 +2,10 @@
 <resources>
 
     <string name="app_name">AndroidTextView</string>
-    <string name="hello_marina">Hello Marina!</string>
-    <string name="whatever">Whatever!</string>
-    <string name="my_text_view">MyTextView!</string>
+    <!-- <string name="hello_marina">Hello Marina!</string> -->
+    <!-- <string name="whatever">Whatever!</string> -->
+    <!-- <string name="my_text_view">MyTextView!</string> -->
+    <string name="edit_message">EnterMessage</string>
+    <string name="red_button">Send</string>
 
 </resources>

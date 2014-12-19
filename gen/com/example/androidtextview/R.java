@@ -1649,6 +1649,7 @@ containing a value of this type.
         public static final int dialog=0x7f090019;
         public static final int disableHome=0x7f09000d;
         public static final int dropdown=0x7f09001a;
+        public static final int edit_message=0x7f09003f;
         public static final int edit_query=0x7f090033;
         public static final int end=0x7f09001c;
         public static final int expand_activities_button=0x7f090022;
@@ -1684,9 +1685,6 @@ containing a value of this type.
         public static final int split_action_bar=0x7f090004;
         public static final int submit_area=0x7f09003c;
         public static final int tabMode=0x7f09000c;
-        public static final int textView=0x7f090040;
-        public static final int textView1=0x7f090041;
-        public static final int textView2=0x7f09003f;
         public static final int title=0x7f090027;
         public static final int up=0x7f090001;
         public static final int useLogo=0x7f090013;
@@ -1803,9 +1801,12 @@ containing a value of this type.
          */
         public static final int abc_toolbar_collapse_description=0x7f0a0004;
         public static final int app_name=0x7f0a0010;
-        public static final int hello_marina=0x7f0a0011;
-        public static final int my_text_view=0x7f0a0013;
-        public static final int whatever=0x7f0a0012;
+        /**  <string name="hello_marina">Hello Marina!</string> 
+ <string name="whatever">Whatever!</string> 
+ <string name="my_text_view">MyTextView!</string> 
+         */
+        public static final int edit_message=0x7f0a0011;
+        public static final int red_button=0x7f0a0012;
     }
     public static final class style {
         /** 
